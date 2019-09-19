@@ -39,7 +39,6 @@ public class MainActivity extends AppCompatActivity {
         Log.d("Test test");
         Log.d("Test");
         Log.d("MainActivity", "Hi Back");
-
     }
 
     @Override
